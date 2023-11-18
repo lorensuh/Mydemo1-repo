@@ -1,2 +1,2 @@
 # Demo heading
-Small description
+Small description for this project
